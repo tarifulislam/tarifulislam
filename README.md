@@ -1,16 +1,17 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 
-
 <h1 align="center">Hi 👋, I'm Tariful Islam</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
+
+
+
 
 ## 🚀 About Me
 
 <p align="justify">I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible.</p>
-
 
 
 - 🔭 I’m currently working on **Backend Development**
@@ -22,13 +23,14 @@
 - 📫 How to reach me **mdtarifulislam4@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif">
 
 
 👨‍💻 Skills & Experiance:<br> 
 - ✅ WordPress <br> 
-- ✅ JavaScript <br>
-- ✅ PHP <br>
-- ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+- ✅ JavaScript / React  <br>
+- ✅ MongoDB / Node / Express <br>
+- ✅ HTML5 / CSS3 / Tailwind / Bootstrap <br>
 - ✅ Photoshop / Illustrator <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarifulislam&label=Profile%20views&color=0e75b6&style=flat" alt="tarifulislam" /> </p>
@@ -36,9 +38,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarifulislam" alt="tarifulislam" /></a> </p>
 
 
-<p align="left">
-</p>
-
+<p align="left"></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
