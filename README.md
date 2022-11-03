@@ -21,6 +21,12 @@
 - 💬 Ask me about **MEARN, Native apps**
 
 - 📫 How to reach me **mdtarifulislam4@gmail.com**
+- 👨‍💻 All of my projects are available at [htttp://tariful.com](htttp://tariful.com)
+
+- 📝 I regularly write articles on [https://developertariful.blogspot.com/](https://developertariful.blogspot.com/)
+
+
+
 
 - ⚡ Fun fact **I am Funny**
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif">
