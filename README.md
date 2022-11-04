@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Tariful Islam</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
 
 
 
